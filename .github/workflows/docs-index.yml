@@ -1,0 +1,31 @@
+name: docs-index
+
+on:
+  schedule:
+    - cron: '17 3 * * *'   # dagelijks 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Genereer DOCS-INDEX.md
+        run: node scripts/build-docs-index.mjs
+      - name: Commit bij wijziging
+        run: |
+          if git diff --quiet -- DOCS-INDEX.md; then
+            echo "Geen wijzigingen."
+          else
+            git config user.name "autorespond-bot"
+            git config user.email "bot@autorespond.nl"
+            git add DOCS-INDEX.md
+            git commit -m "docs-index: automatische update $(date -u +%Y-%m-%d)"
+            git push
+          fi
