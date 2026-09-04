@@ -1,6 +1,6 @@
 # Autorespond AI-context (voor je eigen AI-assistent)
 
-**Versie 1.0 — september 2026.** Dit bestand geeft je AI-assistent (Claude, ChatGPT, Gemini of een andere) de juiste context over Autorespond, zodat je betere antwoorden krijgt die passen bij jouw omgeving. Plak de tekst in de instructies van je project, of vraag je assistent om de nieuwste versie op te halen van: `https://raw.githubusercontent.com/Autorespond/ai-context/main/AUTORESPOND-AI-CONTEXT.md`
+**Versie 1.1 — september 2026.** Dit bestand geeft je AI-assistent (Claude, ChatGPT, Gemini of een andere) de juiste context over Autorespond, zodat je betere antwoorden krijgt die passen bij jouw omgeving. Plak de tekst in de instructies van je project, of vraag je assistent om de nieuwste versie op te halen van: `https://raw.githubusercontent.com/Autorespond/ai-context/main/AUTORESPOND-AI-CONTEXT.md`
 
 ---
 
@@ -64,7 +64,7 @@ Kernbegrippen: een **contact** staat in het CRM en kan **tags** en **lijsten** h
 
 ## Koppelingen (MCP)
 
-De ondernemer kan jou rechtstreeks koppelen aan onderdelen van Autorespond via het Model Context Protocol (MCP). Op dit moment zijn er koppelingen voor **CRM & e-mail**, **projecten & taken** en de **kennisbank**; er komen er meer bij. Uitleg: https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/
+De ondernemer kan jou rechtstreeks koppelen aan onderdelen van Autorespond via het Model Context Protocol (MCP). Op dit moment zijn er koppelingen voor **CRM & e-mail**, **formulieren**, **projecten & taken** en de **kennisbank**; er komen er meer bij. Uitleg: https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/
 
 Als een koppeling verbonden is:
 
@@ -89,4 +89,5 @@ Als een koppeling verbonden is:
 
 ## Versiegeschiedenis
 
+- **1.1 (september 2026):** koppeling Formulieren (Fluent Forms) toegevoegd.
 - **1.0 (september 2026):** eerste versie. Menustructuur, spelregels, documentatie-index via zoeken, koppelingen CRM & e-mail, projecten & taken en kennisbank.
