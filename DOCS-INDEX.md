@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-04 (223 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-05 (224 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -247,6 +247,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [SEO-instellingen voor Sociale Netwerken configureren](https://mijn.autorespond.nl/docs/seo-instellingen-voor-sociale-netwerken-configureren/) — Wil je controle hebben over hoe jouw website eruitziet wanneer deze wordt gedeeld op Facebook, LinkedIn, X (Twitter) of andere [ ]
 - [SEO-instellingen: De basis en geavanceerde opties](https://mijn.autorespond.nl/docs/seo-instellingen-de-basis-en-geavanceerde-opties/) — In het hoofdmenu SEO – instellingen vind je de gereedschapskist van je zoekmachineoptimalisatie. Hier bepaal je welke specifieke functies je [ ]
 - [SEO-instellingen: Titels en Meta's beheren](https://mijn.autorespond.nl/docs/seo-instellingen-titels-en-metas-beheren/) — Wil je dat jouw website beter gevonden wordt in Google? Een van de belangrijkste stappen is het correct instellen van [ ]
+- [SEO-teksten schrijven met de AI-assistent van SEOPress](https://mijn.autorespond.nl/docs/seo-teksten-schrijven-met-de-ai-assistent-van-seopress/) — Laat SEOPress je SEO-titels, meta-omschrijvingen en alt-teksten schrijven met AI, en gebruik de AI Assistant in de editor. Zo zet je het aan en gebruik je het veilig.
 
 ## Overig
 
