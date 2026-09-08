@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-07 (224 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-08 (226 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -105,6 +105,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Terugkerende events: e-mails automatisch rond de eventdatum (retreats, trainingen)](https://mijn.autorespond.nl/docs/terugkerende-events-e-mails-rond-de-eventdatum/) — Organiseer je een event dat een paar keer per jaar terugkomt, zoals een retreat, training of workshopreeks? Dan wil je [ ]
 - [Uitgaande webhook naar Zapier instellen](https://mijn.autorespond.nl/docs/uitgaande-webhook-naar-zapier-instellen/) — Met een uitgaande webhook stuur je automatisch de gegevens van een contact door naar Zapier zodra er iets in Autorespond [ ]
 - [Voorkomen van het landen in de spam of bouncen van emails](https://mijn.autorespond.nl/docs/voorkomen-van-het-landen-in-de-spam/) — Voorkomen van het landen in de spam of bouncen van emails Als een contact aangeeft dat ze geen e-mails krijgen [ ]
+- [WhatsApp-berichten versturen vanuit je CRM (Messaging)](https://mijn.autorespond.nl/docs/whatsapp-berichten-versturen-vanuit-je-crm-messaging/) — Verstuur WhatsApp-campagnes, automatische berichten en 1-op-1 gesprekken vanuit je CRM. Zo zet je de Messaging-module aan en koppel je Twilio of de Meta Cloud API.
 
 ## Formulieren (Fluentforms)
 
@@ -171,6 +172,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [BTW-nummer automatisch opslaan in klantprofielen via webshop koppeling](https://mijn.autorespond.nl/docs/btw-nummer-automatisch-opslaan-in-klantprofielen-via-webshop-koppeling/) — Standaard worden BTW-nummers die klanten invullen bij een bestelling wel op de factuur getoond, maar niet automatisch opgeslagen in het [ ]
 - [BTW-nummer van klant automatisch weergeven op PDF-factuur](https://mijn.autorespond.nl/docs/btw-nummer-van-klant-automatisch-weergeven-op-pdf-factuur/) — Het BTW-nummer van je klanten verschijnt standaard automatisch op de PDF-factuur bij de adresgegevens, mits dit veld is ingevuld tijdens [ ]
 - [BTW-verlegd instellen bij handmatige bestellingen](https://mijn.autorespond.nl/docs/btw-verlegd-instellen-bij-handmatige-bestellingen/) — Bij handmatig aangemaakte bestellingen via de Autorespond administratie werkt de automatische BTW-controle anders dan bij online bestellingen. De EU BTW-naleving [ ]
+- [Buckaroo (voorheen Sisow) als betaalprovider koppelen aan je shop](https://mijn.autorespond.nl/docs/buckaroo-voorheen-sisow-als-betaalprovider-koppelen-aan-je-shop/) — Werk je al jaren met Buckaroo als betaalprovider, of ben je ooit bij Sisow begonnen (Sisow is overgenomen door Buckaroo [ ]
 - [Conditioneel IBAN-gegevens tonen op facturen voor handmatige bestellingen](https://mijn.autorespond.nl/docs/conditioneel-iban-gegevens-tonen-op-facturen-voor-handmatige-bestellingen/) — Als je handmatig bestellingen aanmaakt voor klanten via de administratie, wil je vaak je bankgegevens vermelden op de factuur zodat [ ]
 - [Conversies meten met Google Ads, Analytics en Facebook pixel](https://mijn.autorespond.nl/docs/conversies-meten-met-google-ads-analytics-en-facebook-pixel/) — Stel conversiemeting voor Google Ads, Google Analytics (GA4) en de Facebook (Meta) pixel in via de Verkoopfunnel Instellingen, zonder zelf code te plaatsen.
 - [Creditnota maken zonder een originele bestelling of factuur](https://mijn.autorespond.nl/docs/losse-creditnota-maken-zonder-originele-factuur/) — Losse creditfacturen aanmaken Voor facturen die zijn aangemaakt in het oude e-act Autorespond systeem of in een andere systeem waar [ ]
