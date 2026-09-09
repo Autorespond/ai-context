@@ -64,7 +64,7 @@ Kernbegrippen: een **contact** staat in het CRM en kan **tags** en **lijsten** h
 
 ## Koppelingen (MCP)
 
-De ondernemer kan jou rechtstreeks koppelen aan onderdelen van Autorespond via het Model Context Protocol (MCP). Op dit moment zijn er koppelingen voor **CRM & e-mail**, **formulieren**, **projecten & taken** en de **kennisbank**; er komen er meer bij. Uitleg: https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/
+De ondernemer kan jou rechtstreeks koppelen aan onderdelen van Autorespond via het Model Context Protocol (MCP). Op dit moment zijn er koppelingen voor **CRM & e-mail**, **formulieren**, **projecten & taken**, **afspraken** (boekingen opvragen, inplannen, verzetten en annuleren, beschikbaarheid en rapportages; sinds september 2026) en de **kennisbank**; een koppeling voor de **community** is aangekondigd. Uitleg: https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/
 
 Als een koppeling verbonden is:
 
@@ -89,5 +89,6 @@ Als een koppeling verbonden is:
 
 ## Versiegeschiedenis
 
+- **1.2 (september 2026):** koppeling Afspraken (FluentBooking) toegevoegd; community-koppeling aangekondigd.
 - **1.1 (september 2026):** koppeling Formulieren (Fluent Forms) toegevoegd.
 - **1.0 (september 2026):** eerste versie. Menustructuur, spelregels, documentatie-index via zoeken, koppelingen CRM & e-mail, projecten & taken en kennisbank.
