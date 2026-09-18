@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-17 (229 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-18 (229 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -89,7 +89,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Een gemigreerde HTML-e-mail omzetten naar de blok-editor](https://mijn.autorespond.nl/docs/een-gemigreerde-html-e-mail-omzetten-naar-de-blok-editor/) — Sommige e-mails komen bij de migratie over als HTML in plaats van in de visuele bouwer. Zo herken je ze, pas je ze aan en zet je ze veilig om naar losse blokken.
 - [Een herinnering sturen aan iedereen die nog niet op de link in je e-mail klikte](https://mijn.autorespond.nl/docs/een-herinnering-sturen-aan-iedereen-die-nog-niet-op-de-link-in-je-e-mail-klikte/) — Verkoop je een workshop, training of ander event en stuur je na de aankoop een bevestigingsmail met een link naar [ ]
 - [Een nieuwsbrief versturen met een vast template design](https://mijn.autorespond.nl/docs/een-nieuwsbrief-versturen-met-een-vast-template-design/) — Een nieuwsbrief versturen met een vast template design Een nieuwsbrief verstuur je in Autorespond met een campagne: één e-mail die [ ]
-- [Externe website met FluentForms Pro koppelen aan Autorespond CRM](https://mijn.autorespond.nl/docs/externe-website-formulieren-koppelen-aan-autorespond-crm/) — Heb je een eigen website en gebruik je de plugin Flunetforms Pro? Dan kun je die plugin en formulieren gewoon [ ]
+- [Externe website met FluentForms Pro koppelen aan Autorespond CRM](https://mijn.autorespond.nl/docs/externe-website-formulieren-koppelen-aan-autorespond-crm/) — Heb je een eigen website en gebruik je de plugin Fluent Forms Pro? Dan kun je die plugin en formulieren [ ]
 - [Formulier aanmeldingen koppelen aan het CRM](https://mijn.autorespond.nl/docs/formulier-aanmeldingen-koppelen-aan-het-crm/) — Formulier aanmeldingen koppelen aan het CRM Formulieren in Autorespond staan standaard niet gekoppeld aan het CRM. Dit is bewust zo [ ]
 - [Herbruikbare tekstblokken in je e-mails (patronen)](https://mijn.autorespond.nl/docs/herbruikbare-tekstblokken-in-je-e-mails-patronen/) — Herbruikbare tekstblokken in je e-mails (patronen) Gebruik je dezelfde tekst in meerdere e-mails, bijvoorbeeld een zin met een datum in [ ]
 - [Individueel contact bekijken en bewerken](https://mijn.autorespond.nl/docs/individueel-contact-bekijken-en-bewerken/) — Elke relatie in je Autorespond administratie heeft een uitgebreide detailpagina waar je alle informatie op één plek vindt. Van contactgegevens [ ]
