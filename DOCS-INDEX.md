@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-19 (229 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-20 (230 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -183,6 +183,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [De algemene Winkel Checkout en bedanktpagina naar wens aanpassen](https://mijn.autorespond.nl/docs/de-algemene-winkel-checkout-en-bedanktpagina-naar-wens-aanpassen/) — Video inhoud Deze video beschrijft de stappen voor het instellen van de algemeen winkel checkout, die als basis gebruikt wordt [ ]
 - [De bestelstatussen van je shop uitgelegd](https://mijn.autorespond.nl/docs/de-bestelstatussen-van-je-shop-uitgelegd/) — Wat elke bestelstatus betekent, wanneer een bestelling die status krijgt en welke e-mails er automatisch bij horen.
 - [De opmaak van facturen en creditnota's aanpassen via de PDF customizer](https://mijn.autorespond.nl/docs/de-opmaak-van-facturen-en-creditnotas-aanpassen-via-de-pdf-customizer/) — PDF Customizer Handleiding Facturen en creditnota's aanpassen in Autorespond De facturen en creditnota's die Autorespond maakt, kun je zelf vormgeven. [ ]
+- [Een bestelling aanmaken voor een contact uit je CRM](https://mijn.autorespond.nl/docs/bestelling-aanmaken-voor-een-contact-uit-je-crm/) — Maak je handmatig een bestelling of factuur aan, dan wil je de gegevens van een bestaand contact niet elke keer [ ]
 - [Een betaald product aanmaken met automatische lijstkoppeling en follow-up mail](https://mijn.autorespond.nl/docs/een-betaald-product-aanmaken-met-automatische-lijstkoppeling-en-follow-up-mail/) — Je verkoopt een dienst, bijvoorbeeld een workshop of training op een vaste datum, en je wilt dat elke klant die [ ]
 - [Een coupon automatisch laten toepassen](https://mijn.autorespond.nl/docs/een-coupon-automatisch-laten-toepassen/) — Soms wil je een korting geven zonder dat klanten een code hoeven te kennen of in te typen. Denk aan [ ]
 - [Een eigen bedanktpagina na aankoop (en waarom de standaardpagina meestal beter is)](https://mijn.autorespond.nl/docs/een-eigen-bedanktpagina-na-aankoop-en-waarom-de-standaardpagina-meestal-beter-is/) — Na het afrekenen landt je koper op de bedanktpagina van je verkoopfunnel of van de winkel-checkout. Wil je kopers na [ ]
@@ -202,7 +203,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Gebruikersaccounts bij WooCommerce Subscriptions — hoe het werkt](https://mijn.autorespond.nl/docs/gebruikersaccounts-bij-woocommerce-subscriptions-hoe-het-werkt/) — Als je abonnementsproducten verkoopt via de Shop-module in Autorespond, maak je gebruik van WooCommerce Subscriptions. Een veelgestelde vraag is of [ ]
 - [Geplande verkoop instellen voor producten — beschikbaar tot een bepaalde datum](https://mijn.autorespond.nl/docs/geplande-verkoop-instellen-voor-producten-beschikbaar-tot-een-bepaalde-datum/) — Geplande verkoop instellen voor producten — beschikbaar tot een bepaalde datum Je kunt in Autorespond een start- en einddatum instellen [ ]
 - [Google Tag Manager en tracking scripts koppelen via SEO-instellingen](https://mijn.autorespond.nl/docs/google-tag-manager-en-tracking-scripts-koppelen-via-seo-instellingen/) — Wil je geavanceerde tracking instellen op je Autorespond website, zoals Google Tag Manager (GTM), de Meta Pixel (Facebook), of LinkedIn [ ]
-- [Handmatig een nieuwe bestelling aanmaken](https://mijn.autorespond.nl/docs/een-nieuwe-bestelling-aanmaken/) — Wil je handmatig een bestelling aanmaken in Woocommerce? Ga naar menu Shop > Bestellingen en klik op 'Bestelling toevoegen': Maak [ ]
+- [Handmatig een nieuwe bestelling aanmaken](https://mijn.autorespond.nl/docs/een-nieuwe-bestelling-aanmaken/) — Wil je handmatig een bestelling aanmaken in Woocommerce? Ga naar menu Shop &gt; Bestellingen en klik op 'Bestelling toevoegen': Maak [ ]
 - [Handmatig een nieuwe klant aanmaken](https://mijn.autorespond.nl/docs/handmatig-een-nieuwe-klant-aanmaken/) — Bij het handmatig aanmaken van een bestelling kun je een klant kiezen om de gegevens automatisch in te laden. In [ ]
 - [Handmatig nieuwe bestelling en factuur aanmaken](https://mijn.autorespond.nl/docs/handmatig-nieuwe-bestelling-en-factuur-aanmaken/) — Video Samenvatting Deze video beschrijft de stappen voor het handmatig aanmaken van een bestelling in het systeem, inclusief het toevoegen [ ]
 - [Hoe kan ik een betaalmethode aanpassen](https://mijn.autorespond.nl/docs/hoe-kan-ik-een-betaalmethode-aanpassen/) — Mollie betaalmethoden instellen en beheren Met Mollie als betaalgateway kun je verschillende betaalmethoden aanbieden in je webshop, zoals iDEAL, creditcard, [ ]
