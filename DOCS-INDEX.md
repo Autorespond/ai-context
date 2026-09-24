@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-23 (230 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-24 (231 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -99,7 +99,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Met Smartlink automatische acties laten starten](https://mijn.autorespond.nl/docs/met-smartlink-automatische-acties-laten-starten/) — Overzicht Smartlinks zijn speciale, unieke URL’s waarmee je CRM direct acties kan uitvoeren zodra een contact erop klikt. Ze worden [ ]
 - [Pas toegang verlenen na betaling (ook bij bankoverboekingen)](https://mijn.autorespond.nl/docs/pas-toegang-verlenen-na-betaling-ook-bij-bankoverboekingen/) — Verkoop je een online cursus of e-learning en kunnen je klanten per bankoverboeking betalen? Dan wil je niet dat iemand [ ]
 - [Preview-functie gebruiken om e-mail templates te bekijken](https://mijn.autorespond.nl/docs/preview-functie-gebruiken-om-e-mail-templates-te-bekijken/) — Preview-functie gebruiken om e-mail templates te bekijken Voordat je een e-mail verstuurt, wil je natuurlijk zien hoe die eruitziet. Autorespond [ ]
-- [Publieke site versie link van je campagne delen en campagne archief pagina instellen](https://mijn.autorespond.nl/docs/campagne-archieven-instellen-voor-publieke-nieuwsbrieven/) — Publieke siteversie link instellen in een email met shortcode Om in de email een link te plaatsen naar de publieke [ ]
+- [Publieke site versie link van je campagne delen en campagne archief pagina instellen](https://mijn.autorespond.nl/docs/campagne-archieven-instellen-voor-publieke-nieuwsbrieven/) — Publieke siteversie-link in een e-mail zetten Wil je in je e-mail een link naar de webversie van diezelfde e-mail zetten, [ ]
 - [Relaties in bulk verwijderen (FluentCRM)](https://mijn.autorespond.nl/docs/relaties-in-bulk-verwijderen-fluentcrm/) — Als je in bulk relaties uit het CRM wilt verwijderen dan kan dat door eerst te filteren op de gemeenschappelijke [ ]
 - [Snel specifieke contacten mailen via een nieuwe lijst](https://mijn.autorespond.nl/docs/snel-specifieke-contacten-mailen-via-een-nieuwe-lijst/) — Lijstbeheer in Autorespond is gebaseerd op FluentCRM Pro — inbegrepen in je pakket. Als je snel een mail wilt versturen [ ]
 - [Sociale media blok toevoegen aan e-mail templates](https://mijn.autorespond.nl/docs/sociale-media-blok-toevoegen-aan-e-mail-templates/) — Een sociale media blok in je e-mail templates zorgt ervoor dat ontvangers direct naar je sociale kanalen kunnen navigeren. Het [ ]
@@ -241,6 +241,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 
 - [Aftelklok op je checkout- of landingspagina](https://mijn.autorespond.nl/docs/aftelklok-op-je-checkout-of-landingspagina/) — Een aftelklok op je checkout- of landingspagina laat bezoekers zien hoelang een aanbod nog geldig is. Dat maakt een deadline [ ]
 - [Eigen privacyverklaring en algemene voorwaarden gebruiken (externe URL of PDF)](https://mijn.autorespond.nl/docs/eigen-privacyverklaring-en-algemene-voorwaarden-gebruiken-externe-url-of-pdf/) — Heb je je privacyverklaring en algemene voorwaarden al op je eigen website staan, of alleen als PDF-bestand? Dan hoef je [ ]
+- [Je website bouwen en aanpassen met je AI-assistent (Elementor MCP)](https://mijn.autorespond.nl/docs/je-website-bouwen-met-je-ai-assistent-elementor-mcp/) — Laat je AI-assistent pagina's bouwen en aanpassen in je huisstijl, met een voorbeeldlink voordat er iets online gaat. Zo zet je de Elementor MCP-koppeling en de…
 - [Logo aanpassen in de website header](https://mijn.autorespond.nl/docs/logo-aanpassen-in-de-website-header/) — Logo aanpassen in de website header Je kunt het logo in de header van je Autorespond website eenvoudig aanpassen via [ ]
 - [Transparante header instellen en beheren](https://mijn.autorespond.nl/docs/transparante-header-instellen-en-beheren/) — Wil je dat je logo en menu naadloos over je paginabanner of hero-afbeelding vallen, zonder een aparte balk erboven? Dan [ ]
 
