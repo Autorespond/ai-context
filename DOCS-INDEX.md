@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-26 (231 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-27 (232 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -110,6 +110,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 
 ## Formulieren (Fluentforms)
 
+- [Aanmelders die hun inschrijving nog niet bevestigd hebben terugvinden (dubbele opt-in)](https://mijn.autorespond.nl/docs/aanmelders-die-hun-inschrijving-nog-niet-bevestigd-hebben-terugvinden-dubbele-opt-in/) — Waar je mensen vindt die een formulier invulden maar de bevestigingsmail nog niet aanklikten, waarom ze niet bij je contacten staan en hoe lang ze bewaard blijven.
 - [Conversies meten bij formulier-aanmeldingen (Google Ads en Facebook)](https://mijn.autorespond.nl/docs/conversies-meten-bij-formulier-aanmeldingen-google-ads-en-facebook/) — Meet aanmeldingen via formulieren als conversies in Google Ads of Facebook: stuur het formulier door naar een bedanktpagina met je meetcode, ook als het formulier in…
 - [De layout en knop van je formulier aanpassen](https://mijn.autorespond.nl/docs/formulier-padding-en-styling-aanpassen-in-autorespond/) — Pas de aanmeldknop, velden en styling van je formulier aan: knopgrootte en -kleur, veldgrootte via Voorbeeld &#038; ontwerp, witruimte verwijderen en eigen CSS.
 - [Dubbele opt-in werkt niet tijdens testen — dit zijn de oorzaken](https://mijn.autorespond.nl/docs/dubbele-opt-in-werkt-niet-tijdens-testen-dit-zijn-de-oorzaken/) — Dubbele opt-in werkt niet tijdens testen — dit zijn de oorzaken Je hebt de dubbele opt-in ingesteld via de CRM-koppeling [ ]
