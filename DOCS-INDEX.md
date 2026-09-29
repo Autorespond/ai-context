@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-28 (232 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-29 (234 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -21,6 +21,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 
 ## Algemeen Beheer
 
+- [AVG-verzoeken afhandelen: inzage, correctie en verwijdering van iemands gegevens](https://mijn.autorespond.nl/docs/avg-verzoeken-afhandelen-inzage-correctie-en-verwijdering-van-iemands-gegevens/) — Vraagt iemand op grond van de AVG welke gegevens je van hem of haar hebt? Met de knop AVG-inzage op de contactpagina exporteer je alles in één zip-bestand. Ook:…
 - [AVG, beveiliging en de verwerkersovereenkomst](https://mijn.autorespond.nl/docs/avg-beveiliging-en-de-verwerkersovereenkomst/) — Werk je met persoonsgegevens van klanten, dan wil je zeker weten dat dat goed geregeld is. Zeker als je beroepsvereniging, [ ]
 - [Handleiding: Cookie Banner inrichten met Google Tag Manager (GTM) voor Autorespond](https://mijn.autorespond.nl/docs/handleiding-cookie-banner-inrichten-met-google-tag-manager-gtm-voor-autorespond/) — In deze handleiding leggen we uit hoe je de cookie banner configureert binnen je Autorespond-omgeving en hoe je deze koppelt [ ]
 - [Herroepingsknop instellen in Autorespond (verplicht vanaf 19 juni 2026)](https://mijn.autorespond.nl/docs/herroepingsknop-instellen-in-autorespond-verplicht-vanaf-19-juni-2026/) — Vanaf 19 juni 2026 ben je als online verkoper wettelijk verplicht om een duidelijke herroepingsknop aan te bieden. Consumenten moeten [ ]
@@ -89,6 +90,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Een gemigreerde HTML-e-mail omzetten naar de blok-editor](https://mijn.autorespond.nl/docs/een-gemigreerde-html-e-mail-omzetten-naar-de-blok-editor/) — Sommige e-mails komen bij de migratie over als HTML in plaats van in de visuele bouwer. Zo herken je ze, pas je ze aan en zet je ze veilig om naar losse blokken.
 - [Een herinnering sturen aan iedereen die nog niet op de link in je e-mail klikte](https://mijn.autorespond.nl/docs/een-herinnering-sturen-aan-iedereen-die-nog-niet-op-de-link-in-je-e-mail-klikte/) — Verkoop je een workshop, training of ander event en stuur je na de aankoop een bevestigingsmail met een link naar [ ]
 - [Een nieuwsbrief versturen met een vast template design](https://mijn.autorespond.nl/docs/een-nieuwsbrief-versturen-met-een-vast-template-design/) — Een nieuwsbrief versturen met een vast template design Een nieuwsbrief verstuur je in Autorespond met een campagne: één e-mail die [ ]
+- [Elke maand een nieuwe ledenlijst importeren zonder dubbele contacten](https://mijn.autorespond.nl/docs/elke-maand-een-nieuwe-ledenlijst-importeren-zonder-dubbele-contacten/) — Houd je je ledenadministratie, cursistenlijst of relatiebestand bij in een ander systeem, dan krijg je daar periodiek een verse export [ ]
 - [Externe website met FluentForms Pro koppelen aan Autorespond CRM](https://mijn.autorespond.nl/docs/externe-website-formulieren-koppelen-aan-autorespond-crm/) — Heb je een eigen website en gebruik je de plugin Fluent Forms Pro? Dan kun je die plugin en formulieren [ ]
 - [Formulier aanmeldingen koppelen aan het CRM](https://mijn.autorespond.nl/docs/formulier-aanmeldingen-koppelen-aan-het-crm/) — Formulier aanmeldingen koppelen aan het CRM Formulieren in Autorespond staan standaard niet gekoppeld aan het CRM. Dit is bewust zo [ ]
 - [Herbruikbare tekstblokken in je e-mails (patronen)](https://mijn.autorespond.nl/docs/herbruikbare-tekstblokken-in-je-e-mails-patronen/) — Herbruikbare tekstblokken in je e-mails (patronen) Gebruik je dezelfde tekst in meerdere e-mails, bijvoorbeeld een zin met een datum in [ ]
