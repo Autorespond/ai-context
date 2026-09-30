@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-29 (234 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-09-30 (234 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
