@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-01 (234 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-02 (234 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -75,7 +75,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Contacten beheren en toevoegen](https://mijn.autorespond.nl/docs/contacten-beheren-en-toevoegen/) — Contacten beheren en toevoegen Je relaties vormen de kern van je Autorespond CRM. Hier beheer je alle contactgegevens, voeg je [ ]
 - [Contacten exporteren naar bestanden](https://mijn.autorespond.nl/docs/contacten-exporteren-naar-bestanden/) — Contacten exporteren naar bestanden Met de export functie kun je alle contactgegevens uit je Autorespond CRM exporteren naar een CSV-bestand. [ ]
 - [Contacten importeren vanuit bestanden](https://mijn.autorespond.nl/docs/contacten-importeren-vanuit-bestanden/) — Contacten importeren vanuit bestanden Je kunt contacten in bulk importeren vanuit CSV- of Excel-bestanden in je Autorespond administratie. Dit is [ ]
-- [Contacten overzicht en beheren](https://mijn.autorespond.nl/docs/contacten-dashboard-en-overzicht/) — Contacten overzicht en in bulk beheren Je contactendashboard is het centrale punt waar je al je relaties beheert en een [ ]
+- [Contacten overzicht en beheren](https://mijn.autorespond.nl/docs/contacten-dashboard-en-overzicht/) — Zo werk je in het contactenoverzicht: kolommen kiezen, zoeken en filteren, bulkacties via de balk onderaan (bijvoorbeeld alle contacten aan een lijst toevoegen),…
 - [Contacten segmenteren en filteren](https://mijn.autorespond.nl/docs/contacten-segmenteren-en-filteren/) — Contacten segmenteren en filteren Segmentatie is het verdelen van je contactenlijst in kleinere, gerichte groepen op basis van specifieke kenmerken [ ]
 - [Contacten zoeken met geavanceerde filters](https://mijn.autorespond.nl/docs/geavanceerde-contacten-filters-gebruiken/) — Contacten zoeken met geavanceerde filters Met de geavanceerde filter functie kun je heel specifiek zoeken naar contacten op basis van [ ]
 - [De voettekst of afmeldlink verschijnt niet onder je e-mail (en zo los je dat op)](https://mijn.autorespond.nl/docs/de-voettekst-of-afmeldlink-verschijnt-niet-onder-je-e-mail-en-zo-los-je-dat-op/) — Je verstuurt een mailing en onderaan blijft het stil: geen afmeldlink, geen bedrijfsnaam, geen adresregel. Soms staat er alleen een [ ]
