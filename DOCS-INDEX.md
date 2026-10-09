@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-08 (236 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-09 (237 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -210,6 +210,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Handmatig een nieuwe bestelling aanmaken](https://mijn.autorespond.nl/docs/een-nieuwe-bestelling-aanmaken/) — Wil je handmatig een bestelling aanmaken in Woocommerce? Ga naar menu Shop &gt; Bestellingen en klik op 'Bestelling toevoegen': Maak [ ]
 - [Handmatig een nieuwe klant aanmaken](https://mijn.autorespond.nl/docs/handmatig-een-nieuwe-klant-aanmaken/) — Bij het handmatig aanmaken van een bestelling kun je een klant kiezen om de gegevens automatisch in te laden. In [ ]
 - [Handmatig nieuwe bestelling en factuur aanmaken](https://mijn.autorespond.nl/docs/handmatig-nieuwe-bestelling-en-factuur-aanmaken/) — Video Samenvatting Deze video beschrijft de stappen voor het handmatig aanmaken van een bestelling in het systeem, inclusief het toevoegen [ ]
+- [Het factuurnummer van een bestaande factuur aanpassen](https://mijn.autorespond.nl/docs/het-factuurnummer-van-een-bestaande-factuur-aanpassen/) — Heb je je eigen factuurnummering pas ingesteld nadat de eerste bestellingen al binnen waren? Dan staan er facturen in je [ ]
 - [Hoe kan ik een betaalmethode aanpassen](https://mijn.autorespond.nl/docs/hoe-kan-ik-een-betaalmethode-aanpassen/) — Mollie betaalmethoden instellen en beheren Met Mollie als betaalgateway kun je verschillende betaalmethoden aanbieden in je webshop, zoals iDEAL, creditcard, [ ]
 - [Hoe werkt een abonnement in de webshop?](https://mijn.autorespond.nl/docs/hoe-werkt-een-abonnement-in-de-webshop/) — Wanneer een klant een abonnementsproduct koopt in je webshop, zie je in het bestellingenoverzicht twee nummers: een bestelnummer en een [ ]
 - [Je webshop koppelen aan Moneybird (boekhouding)](https://mijn.autorespond.nl/docs/webshop-koppelen-aan-moneybird/) — Gebruik je Moneybird voor je boekhouding? Dan kun je je webshop er rechtstreeks aan koppelen. Elke betaalde bestelling wordt automatisch [ ]
