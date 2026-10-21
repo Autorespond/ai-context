@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-20 (249 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-21 (250 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -25,6 +25,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 
 - [AVG-verzoeken afhandelen: inzage, correctie en verwijdering van iemands gegevens](https://mijn.autorespond.nl/docs/avg-verzoeken-afhandelen-inzage-correctie-en-verwijdering-van-iemands-gegevens/) — Vraagt iemand op grond van de AVG welke gegevens je van hem of haar hebt? Met de knop AVG-inzage op de contactpagina exporteer je alles in één zip-bestand. Ook:…
 - [AVG, beveiliging en de verwerkersovereenkomst](https://mijn.autorespond.nl/docs/avg-beveiliging-en-de-verwerkersovereenkomst/) — Werk je met persoonsgegevens van klanten, dan wil je zeker weten dat dat goed geregeld is. Zeker als je beroepsvereniging, [ ]
+- [Beheeromgeving laadt eindeloos of reageert vreemd? Ververs je browser](https://mijn.autorespond.nl/docs/beheeromgeving-laadt-eindeloos-of-reageert-vreemd-ververs-je-browser/) — Beheeromgeving laadt eindeloos of reageert vreemd? Ververs je browser Blijft een scherm in je beheeromgeving hangen op een laadicoontje, reageert [ ]
 - [Handleiding: Cookie Banner inrichten met Google Tag Manager (GTM) voor Autorespond](https://mijn.autorespond.nl/docs/handleiding-cookie-banner-inrichten-met-google-tag-manager-gtm-voor-autorespond/) — In deze handleiding leggen we uit hoe je de cookie banner configureert binnen je Autorespond-omgeving en hoe je deze koppelt [ ]
 - [Herroepingsknop instellen in Autorespond (verplicht vanaf 19 juni 2026)](https://mijn.autorespond.nl/docs/herroepingsknop-instellen-in-autorespond-verplicht-vanaf-19-juni-2026/) — Vanaf 19 juni 2026 ben je als online verkoper wettelijk verplicht om een duidelijke herroepingsknop aan te bieden. Consumenten moeten [ ]
 - [Je AI-assistent koppelen aan Autorespond: alle koppelingen op een rij](https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/) — CRM, boards, kennisbank en shop bedienen vanuit Claude, ChatGPT of Cursor: welke MCP-koppelingen er zijn, hoe je ze aanzet, hoe je verbindt en hoe je je AI zelf laat…
