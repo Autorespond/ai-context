@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-21 (250 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-22 (251 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -66,6 +66,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Afmelder doorsturen naar een eigen pagina na afmelding](https://mijn.autorespond.nl/docs/afmelder-doorsturen-naar-een-eigen-pagina-na-afmelding/) — Afmelder doorsturen naar een eigen pagina na afmelding Wanneer een contact zich afmeldt voor je nieuwsbrief, verschijnt er een standaard [ ]
 - [Afmeldlinks in e-mail templates — hoe werken shortcodes en voetteksten](https://mijn.autorespond.nl/docs/afmeldlinks-in-e-mail-templates-hoe-werken-shortcodes-en-voetteksten/) — Afmeldlinks in e-mail templates — hoe werken shortcodes en voetteksten Elke marketing e-mail die via het CRM wordt verstuurd moet [ ]
 - [Afzenderadressen en mailverbindingen in Autorespond](https://mijn.autorespond.nl/docs/afzenderadressen-en-mailverbindingen/) — Hoe de mailverbindingen van je Autorespond-omgeving zijn ingericht (nieuwsbrieven via Amazon SES, systeem- en shopmails via noreply@), wat je zelf kunt wijzigen, en hoe…
+- [AI gebruiken in de e-maileditor: teksten schrijven en verbeteren met je eigen AI-dienst](https://mijn.autorespond.nl/docs/ai-gebruiken-in-de-e-maileditor/) — Laat AI je e-mailteksten schrijven en verbeteren. Zo koppel je je eigen AI-dienst (Claude, ChatGPT, Gemini of OpenRouter) aan je CRM en gebruik je de AI-knoppen in de…
 - [Automation alleen voor nieuwe klanten bij eerste aankoop](https://mijn.autorespond.nl/docs/automation-alleen-voor-nieuwe-klanten-bij-eerste-aankoop/) — Automation alleen voor nieuwe klanten bij eerste aankoop Als je een automation wilt starten die alleen voor nieuwe klanten geldt [ ]
 - [Automations maken met de automatiseringseditor](https://mijn.autorespond.nl/docs/automatisering-editor-gebruiken/) — Automations maken met de automatiseringseditor Met de automatiseringseditor maak je slimme automations, funnels of workflows die automatisch acties uitvoeren op [ ]
 - [Automatisering acties configureren](https://mijn.autorespond.nl/docs/automatisering-acties-configureren/) — Automatisering acties configureren Acties bepalen wat er gebeurt wanneer een automation wordt geactiveerd. Je kunt meerdere acties achter elkaar uitvoeren, [ ]
