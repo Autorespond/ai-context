@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-26 (251 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-10-27 (251 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -34,7 +34,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Subdomein kiezen voor Autorespond](https://mijn.autorespond.nl/docs/subdomein-kiezen-voor-autorespond/) — Subdomein kiezen voor Autorespond Bij de migratie naar het nieuwe Autorespond kies je zelf op welk subdomein je administratie live [ ]
 - [Toegang tot pagina's en content regelen met tags](https://mijn.autorespond.nl/docs/toegang-tot-content-regelen-met-tags/) — Sommige pagina's zijn niet voor iedereen bedoeld. Denk aan een ledenpagina, een cursusoverzicht voor kopers of een bedankpagina met downloads. [ ]
 - [Twee-factor-authenticatie (2FA) aanzetten voor je beheeromgeving](https://mijn.autorespond.nl/docs/twee-factor-authenticatie-2fa-aanzetten-voor-je-beheeromgeving/) — Met twee-factor-authenticatie (2FA) beveilig je de toegang tot je Autorespond-dashboard met een extra stap: naast je wachtwoord vul je bij [ ]
-- [Van e-Act naar Nieuwe Autorespond — stap-voor-stap migratiegids met checklist livegang](https://mijn.autorespond.nl/docs/van-e-act-naar-nieuwe-autorespond-stap-voor-stap-migratiegids-met-checklist-live/) — De migratie van e-Act naar het Nieuwe Autorespond verloopt in drie duidelijke fases. Jij bepaalt het tempo — wij zetten [ ]
+- [Van e-Act naar Nieuwe Autorespond — stap-voor-stap migratiegids met checklist livegang](https://mijn.autorespond.nl/docs/van-e-act-naar-nieuwe-autorespond-stap-voor-stap-migratiegids-met-checklist-live/) — De migratie van e-Act naar het Nieuwe Autorespond verloopt in drie duidelijke fases. Je kiest zelf een migratiedag. Op die [ ]
 - [Wat te doen als je mailserver op een blacklist staat](https://mijn.autorespond.nl/docs/wat-te-doen-als-je-mailserver-op-een-blacklist-staat/) — Wat te doen als je mailserver op een blacklist staat Soms komt een e-mail niet aan bij één of enkele [ ]
 - [Website onbereikbaar? Zo controleer je zelf of je site echt offline is](https://mijn.autorespond.nl/docs/website-onbereikbaar-zo-controleer-je-zelf-of-je-site-echt-offline-is/) — Soms lijkt je omgeving of website er ineens uit te liggen: de pagina laadt niet, je ziet een foutmelding of [ ]
 - [Wijzigingen niet zichtbaar? Zo leeg je de cache](https://mijn.autorespond.nl/docs/wijzigingen-niet-zichtbaar-cache-legen/) — Je hebt een tekst aangepast, een afbeelding vervangen of een menu-item gewijzigd, maar op je website zie je nog steeds [ ]
