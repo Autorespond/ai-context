@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-06 (251 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-07 (251 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -88,7 +88,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [E-mail templates beheren](https://mijn.autorespond.nl/docs/e-mail-templates-beheren/) — E-mail templates beheren E-mail templates zijn herbruikbare e-mailontwerpen die je kunt maken en opslaan voor gebruik in campagnes, automations en [ ]
 - [E-mail versturen naar een individueel contact](https://mijn.autorespond.nl/docs/e-mail-versturen-naar-een-individueel-contact/) — E-mail versturen naar een individueel contact Als je een losse e-mail wilt versturen naar één specifiek contact, kun je dat [ ]
 - [E-mailadres van een klant wijzigen met behoud van account, bestellingen en abonnementen](https://mijn.autorespond.nl/docs/e-mailadres-van-een-klant-wijzigen-met-behoud-van-account-bestellingen-en-abonnementen/) — Een klant krijgt een nieuw e-mailadres en vraagt je om dat aan te passen. Dat adres komt in je omgeving [ ]
-- [E-mailcampagne opstellen en versturen](https://mijn.autorespond.nl/docs/e-mailcampagne-opstellen-en-versturen/) — E-mailcampagne (nieuwsbrief of andere e-mail) opstellen en versturen Een e-mailcampagne is een eenmalige mailing die je verstuurt naar een selecte [ ]
+- [E-mailcampagne opstellen en versturen](https://mijn.autorespond.nl/docs/e-mailcampagne-opstellen-en-versturen/) — Een e-mailcampagne is een eenmalige mailing die je verstuurt naar een gekozen groep contacten in je CRM. Anders dan bij [ ]
 - [E-mailreeksen en sequenties maken](https://mijn.autorespond.nl/docs/e-mailreeksen-en-sequenties-maken/) — E-mailreeksen en sequenties maken E-mailreeksen zijn geautomatiseerde series van opeenvolgende e-mails die met bepaalde tussenpozen worden verstuurd. Je gebruikt dit [ ]
 - [E-mailvoorkeureninstellingen instellen in het CRM](https://mijn.autorespond.nl/docs/e-mailvoorkeureninstellingen-instellen-in-het-crm/) — De e-mailvoorkeureninstellingen bepalen of contacten zelf hun lijstabonnementen kunnen beheren via een voorkeurenpagina. Dit geeft contacten meer controle over welke [ ]
 - [Een bestand meesturen met je e-mail via een downloadlink](https://mijn.autorespond.nl/docs/een-bestand-meesturen-met-je-e-mail-via-een-downloadlink/) — Een bestand meesturen met je e-mail via een downloadlink Wil je een PDF, werkboek of ander bestand meesturen met je [ ]
