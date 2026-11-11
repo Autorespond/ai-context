@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-10 (251 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-11 (252 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -106,6 +106,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Lettertype instellen in de Visuele bouwer: Global Style en Body Font](https://mijn.autorespond.nl/docs/lettertype-instellen-visuele-bouwer/) — Je wilt dat je e-mails er overal hetzelfde uitzien, met één vast lettertype. In de Visuele bouwer zie je het [ ]
 - [Mailen vanaf een tweede domein: een extra afzenderdomein toevoegen](https://mijn.autorespond.nl/docs/mailen-vanaf-een-tweede-domein-een-extra-afzenderdomein-toevoegen/) — Heb je een tweede merk of website? Zo laat je je campagnes en automatiseringen versturen vanaf een e-mailadres op dat andere domein: wat het kost (60 euro per jaar),…
 - [Mails rond de eventdatum: één automatisering voor alle datums van je event](https://mijn.autorespond.nl/docs/mails-rond-de-eventdatum-een-automatisering-voor-alle-datums/) — Stuur elke deelnemer automatisch een mail een paar dagen vóór zijn eigen eventdatum en een mail na afloop, met één automatisering voor alle datums. Een nieuwe datum is…
+- [Meerdere templates tegelijk aan een e-mailreeks toevoegen](https://mijn.autorespond.nl/docs/meerdere-templates-tegelijk-aan-een-e-mailreeks-toevoegen/) — Zet in één keer meerdere bestaande templates in een e-mailreeks en stel per e-mail de vertraging en het verzendtijdbereik in.
 - [Met Smartlink automatische acties laten starten](https://mijn.autorespond.nl/docs/met-smartlink-automatische-acties-laten-starten/) — Overzicht Smartlinks zijn speciale, unieke URL’s waarmee je CRM direct acties kan uitvoeren zodra een contact erop klikt. Ze worden [ ]
 - [Pas toegang verlenen na betaling (ook bij bankoverboekingen)](https://mijn.autorespond.nl/docs/pas-toegang-verlenen-na-betaling-ook-bij-bankoverboekingen/) — Verkoop je een online cursus of e-learning en kunnen je klanten per bankoverboeking betalen? Dan wil je niet dat iemand [ ]
 - [Preview-functie gebruiken om e-mail templates te bekijken](https://mijn.autorespond.nl/docs/preview-functie-gebruiken-om-e-mail-templates-te-bekijken/) — Preview-functie gebruiken om e-mail templates te bekijken Voordat je een e-mail verstuurt, wil je natuurlijk zien hoe die eruitziet. Autorespond [ ]
