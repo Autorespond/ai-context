@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-11 (252 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-12 (254 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -198,10 +198,12 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [De algemene Winkel Checkout en bedanktpagina naar wens aanpassen](https://mijn.autorespond.nl/docs/de-algemene-winkel-checkout-en-bedanktpagina-naar-wens-aanpassen/) — Video inhoud Deze video beschrijft de stappen voor het instellen van de algemeen winkel checkout, die als basis gebruikt wordt [ ]
 - [De bestelstatussen van je shop uitgelegd](https://mijn.autorespond.nl/docs/de-bestelstatussen-van-je-shop-uitgelegd/) — Wat elke bestelstatus betekent, wanneer een bestelling die status krijgt en welke e-mails er automatisch bij horen.
 - [De opmaak van facturen en creditnota's aanpassen via de PDF customizer](https://mijn.autorespond.nl/docs/de-opmaak-van-facturen-en-creditnotas-aanpassen-via-de-pdf-customizer/) — PDF Customizer Handleiding Facturen en creditnota's aanpassen in Autorespond De facturen en creditnota's die Autorespond maakt, kun je zelf vormgeven. [ ]
+- [Een aankoop testen zonder echt te betalen](https://mijn.autorespond.nl/docs/een-aankoop-testen-zonder-echt-te-betalen/) — Test je bestelling, bevestigingsmail en factuur met de testbetaalmethode, of bestel als nieuwe klant voor € 0,00 met een testcode van 100% korting.
 - [Een bestelling aanmaken voor een contact uit je CRM](https://mijn.autorespond.nl/docs/bestelling-aanmaken-voor-een-contact-uit-je-crm/) — Maak je handmatig een bestelling of factuur aan, dan wil je de gegevens van een bestaand contact niet elke keer [ ]
 - [Een betaald product aanmaken met automatische lijstkoppeling en follow-up mail](https://mijn.autorespond.nl/docs/een-betaald-product-aanmaken-met-automatische-lijstkoppeling-en-follow-up-mail/) — Je verkoopt een dienst, bijvoorbeeld een workshop of training op een vaste datum, en je wilt dat elke klant die [ ]
 - [Een coupon automatisch laten toepassen](https://mijn.autorespond.nl/docs/een-coupon-automatisch-laten-toepassen/) — Soms wil je een korting geven zonder dat klanten een code hoeven te kennen of in te typen. Denk aan [ ]
 - [Een eigen bedanktpagina na aankoop (en waarom de standaardpagina meestal beter is)](https://mijn.autorespond.nl/docs/een-eigen-bedanktpagina-na-aankoop-en-waarom-de-standaardpagina-meestal-beter-is/) — Na het afrekenen landt je koper op de bedanktpagina van je verkoopfunnel of van de winkel-checkout. Wil je kopers na [ ]
+- [Een eigen omschrijving per bestelregel op de factuur zetten](https://mijn.autorespond.nl/docs/een-eigen-omschrijving-per-bestelregel-op-de-factuur-zetten/) — Factureer je een klant regelmatig voor werkzaamheden, met elke keer een ander bedrag? Dan wil je per factuur kunnen aangeven [ ]
 - [Een individuele verkoopfunnel aanmaken: eigen checkout voor een specifiek product](https://mijn.autorespond.nl/docs/een-individuele-verkoopfunnel-aanmaken-eigen-checkout-voor-een-specifiek-product/) — Standaard rekenen al je klanten af via dezelfde winkel-checkout. Soms wil je voor één specifiek product een eigen afrekenpagina: met [ ]
 - [Een korting tijdens de looptijd van een abonnement aanpassen](https://mijn.autorespond.nl/docs/een-korting-tijdens-de-looptijd-van-een-abonnement-aanpassen/) — Soms wil je een klant niet meteen korting geven, maar pas na een aantal verlengingen. Denk aan een loyaliteitskorting die [ ]
 - [Een lopend abonnement overzetten naar een andere klant](https://mijn.autorespond.nl/docs/een-lopend-abonnement-overzetten-naar-een-andere-klant/) — Soms is het nodig om een lopend abonnement over te zetten naar een andere persoon: bijvoorbeeld als een bedrijfsabonnement op [ ]
