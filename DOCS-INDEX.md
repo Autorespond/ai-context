@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-12 (254 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-13 (255 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -103,6 +103,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Instellen email voorkeuren (selfservice) pagina voor relaties](https://mijn.autorespond.nl/docs/instellen-email-voorkeuren-selfservice-pagina-voor-relaties/) — Je kunt relaties zelf de keuze geven voor welke specifieke lijsten ze zich willen inschrijven. Dit kan bijvoorbeeld handig zijn [ ]
 - [Labels toevoegen aan campagnes](https://mijn.autorespond.nl/docs/labels-toevoegen-aan-campagnes/) — Labels voor campagnes in Autorespond is gebaseerd op FluentCRM Pro — inbegrepen in je pakket. Lees de Engelse documentatie Labels [ ]
 - [Labels voor automatisering workflows](https://mijn.autorespond.nl/docs/labels-voor-automatisering-workflows/) — Labels voor automations organiseren Labels helpen je om automations te categoriseren en overzicht te houden in je Autorespond administratie. Met [ ]
+- [Lettergrootte aanpassen in de Visuele bouwer, ook bij geplakte tekst](https://mijn.autorespond.nl/docs/lettergrootte-aanpassen-visuele-bouwer/) — Je wilt dat de tekst in je nieuwsbrief wat groter en beter leesbaar is, of je plakt tekst uit een [ ]
 - [Lettertype instellen in de Visuele bouwer: Global Style en Body Font](https://mijn.autorespond.nl/docs/lettertype-instellen-visuele-bouwer/) — Je wilt dat je e-mails er overal hetzelfde uitzien, met één vast lettertype. In de Visuele bouwer zie je het [ ]
 - [Mailen vanaf een tweede domein: een extra afzenderdomein toevoegen](https://mijn.autorespond.nl/docs/mailen-vanaf-een-tweede-domein-een-extra-afzenderdomein-toevoegen/) — Heb je een tweede merk of website? Zo laat je je campagnes en automatiseringen versturen vanaf een e-mailadres op dat andere domein: wat het kost (60 euro per jaar),…
 - [Mails rond de eventdatum: één automatisering voor alle datums van je event](https://mijn.autorespond.nl/docs/mails-rond-de-eventdatum-een-automatisering-voor-alle-datums/) — Stuur elke deelnemer automatisch een mail een paar dagen vóór zijn eigen eventdatum en een mail na afloop, met één automatisering voor alle datums. Een nieuwe datum is…
