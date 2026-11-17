@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-16 (257 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-17 (258 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -101,6 +101,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Herbruikbare tekstblokken in je e-mails (patronen)](https://mijn.autorespond.nl/docs/herbruikbare-tekstblokken-in-je-e-mails-patronen/) — Herbruikbare tekstblokken in je e-mails (patronen) Gebruik je dezelfde tekst in meerdere e-mails, bijvoorbeeld een zin met een datum in [ ]
 - [Individueel contact bekijken en bewerken](https://mijn.autorespond.nl/docs/individueel-contact-bekijken-en-bewerken/) — Elke relatie in je Autorespond administratie heeft een uitgebreide detailpagina waar je alle informatie op één plek vindt. Van contactgegevens [ ]
 - [Instellen email voorkeuren (selfservice) pagina voor relaties](https://mijn.autorespond.nl/docs/instellen-email-voorkeuren-selfservice-pagina-voor-relaties/) — Je kunt relaties zelf de keuze geven voor welke specifieke lijsten ze zich willen inschrijven. Dit kan bijvoorbeeld handig zijn [ ]
+- [Laatste activiteit van een contact: wat telt mee?](https://mijn.autorespond.nl/docs/laatste-activiteit-contact-wat-telt-mee/) — Bij het opschonen van je contactenlijst wil je weten wie nog betrokken is. In het contactenoverzicht en in het geavanceerd [ ]
 - [Labels toevoegen aan campagnes](https://mijn.autorespond.nl/docs/labels-toevoegen-aan-campagnes/) — Labels voor campagnes in Autorespond is gebaseerd op FluentCRM Pro — inbegrepen in je pakket. Lees de Engelse documentatie Labels [ ]
 - [Labels voor automatisering workflows](https://mijn.autorespond.nl/docs/labels-voor-automatisering-workflows/) — Labels voor automations organiseren Labels helpen je om automations te categoriseren en overzicht te houden in je Autorespond administratie. Met [ ]
 - [Lettergrootte aanpassen in de Visuele bouwer, ook bij geplakte tekst](https://mijn.autorespond.nl/docs/lettergrootte-aanpassen-visuele-bouwer/) — Je wilt dat de tekst in je nieuwsbrief wat groter en beter leesbaar is, of je plakt tekst uit een [ ]
