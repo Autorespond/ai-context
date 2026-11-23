@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-22 (259 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-23 (260 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -31,6 +31,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Je AI-assistent koppelen aan Autorespond: alle koppelingen op een rij](https://mijn.autorespond.nl/docs/je-ai-assistent-koppelen-aan-autorespond-alle-koppelingen-op-een-rij/) — CRM, boards, kennisbank en shop bedienen vanuit Claude, ChatGPT of Cursor: welke MCP-koppelingen er zijn, hoe je ze aanzet, hoe je verbindt en hoe je je AI zelf laat…
 - [Je kennisbank koppelen aan je AI-assistent (BetterDocs MCP)](https://mijn.autorespond.nl/docs/je-kennisbank-koppelen-aan-je-ai-assistent-betterdocs-mcp/) — Laat Claude, ChatGPT of Cursor artikelen in je kennisbank opzoeken, als concept schrijven en bijwerken. Zo zet je de MCP-koppeling van BetterDocs aan en verbind je…
 - [Je verbruik bekijken](https://mijn.autorespond.nl/docs/je-verbruik-bekijken/) — In je Autorespond-omgeving betaal je op basis van wat je werkelijk gebruikt. Op het verbruiksoverzicht zie je per kalendermaand hoeveel [ ]
+- [Modules aanzetten, proberen en toevoegen](https://mijn.autorespond.nl/docs/modules-aanzetten-proberen-en-toevoegen/) — Op Beheer → Modules zie je welke modules je hebt, probeer je een module gratis, bestel je er zelf een bij en vraag je de Website-module aan.
 - [Subdomein kiezen voor Autorespond](https://mijn.autorespond.nl/docs/subdomein-kiezen-voor-autorespond/) — Subdomein kiezen voor Autorespond Bij de migratie naar het nieuwe Autorespond kies je zelf op welk subdomein je administratie live [ ]
 - [Toegang tot pagina's en content regelen met tags](https://mijn.autorespond.nl/docs/toegang-tot-content-regelen-met-tags/) — Sommige pagina's zijn niet voor iedereen bedoeld. Denk aan een ledenpagina, een cursusoverzicht voor kopers of een bedankpagina met downloads. [ ]
 - [Twee-factor-authenticatie (2FA) aanzetten voor je beheeromgeving](https://mijn.autorespond.nl/docs/twee-factor-authenticatie-2fa-aanzetten-voor-je-beheeromgeving/) — Met twee-factor-authenticatie (2FA) beveilig je de toegang tot je Autorespond-dashboard met een extra stap: naast je wachtwoord vul je bij [ ]
