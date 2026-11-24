@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-23 (260 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-24 (260 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -171,7 +171,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 ## Verkoopfunnels & Shop
 
 - [A/B-testen in je verkoopfunnel: twee versies van een pagina tegen elkaar testen](https://mijn.autorespond.nl/docs/a-b-testen-in-je-verkoopfunnel-twee-versies-van-een-pagina-tegen-elkaar-testen/) — Twijfel je of een andere koptekst, indeling of aanbieding beter converteert? Met een A/B-test laat je twee (of meer) versies [ ]
-- [Aankondigingsmail instellen voor abonnementsverlengingen](https://mijn.autorespond.nl/docs/aankondigingsmail-instellen-voor-abonnementsverlengingen/) — Klanten met een abonnement kunnen automatisch een herinnering ontvangen vóórdat hun abonnement automatisch verlengd wordt. Dit voorkomt verrassingen bij afschrijvingen…
+- [Aankondigingsmail instellen voor abonnementsverlengingen](https://mijn.autorespond.nl/docs/aankondigingsmail-instellen-voor-abonnementsverlengingen/) — Klanten met een abonnement kunnen automatisch een aankondiging ontvangen, een aantal dagen vóórdat hun abonnement verlengd wordt. Dit voorkomt verrassingen [ ]
 - [Abonnementen actief houden bij een gemiste termijn (standaard workflow)](https://mijn.autorespond.nl/docs/abonnementen-actief-houden-bij-een-gemiste-termijn-standaard-workflow/) — Werk je met abonnementen, bijvoorbeeld voor een membership of een betaling in termijnen? Dan wil je niet dat je klant [ ]
 - [Abonnementsstatussen: wat betekenen ze en hoe beëindig je een abonnement aan het einde van de termijn?](https://mijn.autorespond.nl/docs/abonnementsstatussen-wat-betekenen-ze-en-hoe-beeindig-je-een-abonnement-aan-het/) — Bij het beheren van abonnementen in je webshop kom je vijf verschillende statussen tegen. Elke status bepaalt of een klant [ ]
 - [Adresgegevens alleen vragen bij fysieke producten](https://mijn.autorespond.nl/docs/adresgegevens-alleen-vragen-bij-fysieke-producten/) — Verkoop je digitale en fysieke producten? Laat straat, postcode en plaats in de checkout alleen verschijnen als er iets verzonden wordt. Het veld Land blijft staan,…
