@@ -1,6 +1,6 @@
 # Autorespond documentatie: index
 
-Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-24 (260 artikelen). Open alleen het artikel dat bij de vraag past.
+Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte samenvatting. Automatisch bijgewerkt op 2026-11-25 (261 artikelen). Open alleen het artikel dat bij de vraag past.
 
 ## Afsprakenbeheer
 
@@ -18,6 +18,7 @@ Alle artikelen op https://mijn.autorespond.nl/docs/ per onderwerp, met korte sam
 - [Je kalender koppelen aan de afsprakenplanner](https://mijn.autorespond.nl/docs/je-kalender-koppelen-aan-de-afsprakenplanner/) — Let op: doe dit pas nadat je live bent (dus nog niet in de inwerker omgeving) Om je agenda te [ ]
 - [Meerdere hosts en teamleden: wie beheert welke agenda](https://mijn.autorespond.nl/docs/meerdere-hosts-en-teamleden-wie-beheert-welke-agenda/) — Meerdere hosts en teamleden: wie beheert welke agenda De Afspraken module is een optionele uitbreiding die je kunt toevoegen aan [ ]
 - [Meerdere vergaderruimtes boekbaar stellen met een maximale capaciteit](https://mijn.autorespond.nl/docs/meerdere-vergaderruimtes-boekbaar-stellen-met-een-maximale-capaciteit/) — Stel je verhuurt twee identieke vergaderruimtes en wil dat klanten die online kunnen boeken — maar nooit meer dan er [ ]
+- [Melding 'Beheerdersgoedkeuring vereist' bij het koppelen van je Outlook-agenda](https://mijn.autorespond.nl/docs/melding-beheerdersgoedkeuring-vereist-bij-het-koppelen-van-je-outlook-agenda/) — Wat de Microsoft-melding Beheerdersgoedkeuring vereist betekent bij het koppelen van je Outlook-agenda aan de afsprakenplanner, en wat je beheerder kan doen.
 - [Sessies, wandelingen en workshops op wisselende datums via de afsprakenplanner](https://mijn.autorespond.nl/docs/sessies-op-wisselende-datums-via-de-afsprakenplanner/) — Eén groepsafspraak met losse datums, een maximum aantal deelnemers per datum en betaling bij het boeken. Een nieuwe datum is alleen een extra datum in de beschikbaarheid.
 - [Zoom koppelen aan de Afspraken module voor automatische meetings](https://mijn.autorespond.nl/docs/zoom-koppelen-aan-de-afspraken-module-voor-automatische-meetings/) — Koppel Zoom aan je afsprakenplanner zodat elke boeking automatisch een Zoom-meeting aanmaakt. De host en de gast ontvangen de Zoom-link [ ]
 
